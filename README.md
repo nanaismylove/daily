@@ -2,6 +2,7 @@
 日常有用的东西～
 
 ##1.命令行
+<br>
 设置上游分支
 git push --set-upstream origin  v2019-02-15_comment
 git branch -r/-a //查看远程分支/全部分支
@@ -14,4 +15,5 @@ sudo vi initialAdminPassword  显示内容
 npm install react@16.8.6
 
 ##react 总结
+<br>
 https://github.com/hongxiaomin/react-interview
