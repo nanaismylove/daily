@@ -1,5 +1,6 @@
-## daily
+# daily
 日常有用的东西～
+
 ##1.命令行
 设置上游分支
 git push --set-upstream origin  v2019-02-15_comment
